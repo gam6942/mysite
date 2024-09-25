@@ -1,0 +1,20 @@
+/* classes css des texts */
+
+.txt_small {
+    text-align: center;
+    width: 50vw;
+    font-family: sans-serif;
+    color: black;
+}
+.txt_medium {
+    text-align: center;
+    width: 60vw;
+    font-family: sans-serif;
+    color: black;
+}
+.txt_large {
+    text-align: center;
+    width: 70vw;
+    font-family: sans-serif;
+    color: black;
+}

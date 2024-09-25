@@ -1,0 +1,41 @@
+/* classes css des graphiques */
+
+.bar {
+    width:70px;
+    border: 1px solid black;
+}
+.bar:hover {
+    border: 1px solid white;
+    cursor: cell;
+}
+.bar>p {
+    margin-top:-20px;
+    text-align:center;
+}
+.blue {
+    background-color: blue;
+}
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.purple {
+    background-color: purple;
+}
+.legend {
+    width:70px;
+    text-align:center;
+}
+.legend>p {
+    margin-top:-20px
+}
+@media screen and (min-width: 1000px) {
+    .bar {
+        width:100px;
+    }
+    .legend {
+        width:100px;
+    }
+}

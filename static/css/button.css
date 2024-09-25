@@ -1,0 +1,44 @@
+/* classes css des buttons */
+
+.btn_small {
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: sans-serif;
+    letter-spacing: 1.5px;
+    height: 35px;
+    width: 100px;
+}
+.btn_small:hover {
+    border: 1px solid white;
+    cursor: pointer;
+}
+.btn_medium {
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: sans-serif;
+    letter-spacing: 1.5px;
+    height: 35px;
+    width: 150px;
+}
+.btn_medium:hover {
+    border: 1px solid white;
+    cursor:pointer;
+}
+.btn_large {
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: sans-serif;
+    letter-spacing: 1.5px;
+    height: 35px;
+    width: 200px;
+}
+.btn_large:hover {
+    border: 1px solid white;
+    cursor: pointer;
+}

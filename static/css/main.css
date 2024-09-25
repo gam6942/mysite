@@ -1,0 +1,22 @@
+/* import des différentes classes css regroupées par catégories */
+
+@import url("alignment.css");
+@import url("button.css");
+@import url("container.css");
+@import url("graph.css");
+@import url("input.css");
+@import url("text.css");
+
+/* scope global */
+
+* {
+    box-sizing: border-box;
+    outline: none ;
+    margin: 5px;
+}
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+

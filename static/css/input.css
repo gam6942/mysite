@@ -1,0 +1,38 @@
+/* classes css des inputs */
+
+.inp_small {
+    width: 70px;
+    height: 25px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    border: none;
+    font-family: sans-serif;
+    text-align: center;
+}
+.inp_small::placeholder {
+    color: black;
+}
+.inp_medium {
+    width: 100px;
+    height: 25px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    border: none;
+    font-family: sans-serif;
+    text-align: center;
+}
+.inp_medium::placeholder {
+    color: black;
+}
+.inp_large {
+    width: 200px;
+    height: 25px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    border: none;
+    font-family: sans-serif;
+    text-align: center;
+}
+.inp_large::placeholder {
+    color: black;
+}
